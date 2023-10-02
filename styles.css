@@ -1,0 +1,32 @@
+body{
+    display: grid;
+    grid-template-columns: 15% 84%;
+    grid-template-rows:10% 30% 10%;
+    gap: 10px;
+    border: solid red;
+    
+    
+}
+header,nav,main,footer{
+    border: 2px solid black;
+}
+.logo{
+    border: solid  black;
+    height: 100%;
+    width: auto;
+    border-radius:10px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+article{
+    border: solid black;
+    margin: 10px;
+}
